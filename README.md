@@ -1,2 +1,2 @@
 # HappyHomes
-Summer Training cum Intership Program on PHP with CI-2021
+Summer Training cum Internship Program on PHP with CI-2021
