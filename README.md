@@ -1,2 +1,3 @@
 # HappyHomes
-Summer Training cum Internship Program on PHP with CI-2021
+A real estate based website developed during Summer Training cum Internship Program on PHP with CodeIgnitor-2021.
+
